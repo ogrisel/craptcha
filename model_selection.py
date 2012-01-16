@@ -1,6 +1,6 @@
 """Interactive script to evaluate models suited for the task
 
-This is mean to be run in an ``ipython --pylab`` session
+This is meant to be run in an ``ipython --pylab`` session
 using the ``%run model_selection`` magic.
 """
 
